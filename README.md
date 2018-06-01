@@ -22,6 +22,9 @@ To get started, issue the following commands at your terminal or command line.
 #### Run the back-end server:
 - `node server.js`
 
+#### To access your back-end server, type in your browser:
+- `localhost:5001`
+
 ## Front-End Server
 
 #### Clone this project:
@@ -35,3 +38,6 @@ To get started, issue the following commands at your terminal or command line.
 
 or, if you don't have Yarn installed on your machine, run:
 - `npm start`
+
+#### To access the app, type in your browser:
+- `localhost:3000`
