@@ -3,8 +3,9 @@
 
 A simple React app built as an exercise for the Front-End Nanodegree.
 
-The app is an address book where you can see the list of your contacts, add new
-contacts and remove the ones you don't need anymore.
+The app is an address book where you can see a list of your contacts, add new
+contacts and remove the ones you don't need anymore. You can also search through
+your contacts to find the one(s) you're interested in.
 
 To get started, issue the following commands at your terminal or command line.
 
