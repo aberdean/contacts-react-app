@@ -11,18 +11,24 @@ terminal or command line.
 
 Download the back-end server:
 - `git clone https://github.com/udacity/reactnd-contacts-server.git`
+
 Navigate into the project folder:
 - `cd reactnd-contacts-server`
+
 Install all dependencies:
 - `npm install`
+
 Run the back-end server:
 - `node server.js`
 
 Then, clone this project:
 - `git clone https://github.com/aberdean/contacts-react-app.git`
+
 Navigate into the project folder:
 - `cd contacts-react-app`
+
 Run the front-end server:
 - `yarn start`
+
 or, if you don't have Yarn installed on your machine, run:
 - `npm start`
